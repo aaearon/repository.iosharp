@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.iosharp" name="ioSHARP" version="1.0.2" provider-name="iosharp">
+<addon id="repository.iosharp" name="ioSHARP" version="1.0.3" provider-name="iosharp">
         <extension point="xbmc.addon.repository" name="ioSHARP addons">
                 <info compressed="false">https://iosharp.com/kodi/repo/addons.xml</info>
                 <checksum>https://iosharp.com/kodi/repo/addons.xml.md5</checksum>
